@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 10 adopted, as changed - 133 YEAS to 22 NAYS (See YEA and NAY No. 102 )",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4672"
+}

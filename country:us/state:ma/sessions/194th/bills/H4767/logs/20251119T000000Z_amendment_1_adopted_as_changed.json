@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 1 adopted, as changed",
+    "date": "2025-11-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4767"
+}

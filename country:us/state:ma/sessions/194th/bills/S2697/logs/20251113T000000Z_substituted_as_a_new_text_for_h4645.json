@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted as a new text for H4645",
+    "date": "2025-11-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2697"
+}

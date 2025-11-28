@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of S618, S650 and S651",
+    "date": "2025-11-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2720"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 6 rejected - 23 YEAS to 131 NAYS (See YEA and NAY No. 99 )",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4672"
+}

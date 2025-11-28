@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of S378, S389, S393, S402, S414, S452 and S2614",
+    "date": "2025-11-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2691"
+}

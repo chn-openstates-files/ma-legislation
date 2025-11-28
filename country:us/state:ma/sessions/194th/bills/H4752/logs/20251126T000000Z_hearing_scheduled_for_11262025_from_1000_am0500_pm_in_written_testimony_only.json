@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 11/26/2025 from 10:00 AM-05:00 PM in Written Testimony Only",
+    "date": "2025-11-26",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4752"
+}

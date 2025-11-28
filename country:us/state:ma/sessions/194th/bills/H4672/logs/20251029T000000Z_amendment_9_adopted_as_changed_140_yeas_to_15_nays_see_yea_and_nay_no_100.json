@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 9 adopted, as changed - 140 YEAS to 15 NAYS (See YEA and NAY No. 100 )",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4672"
+}

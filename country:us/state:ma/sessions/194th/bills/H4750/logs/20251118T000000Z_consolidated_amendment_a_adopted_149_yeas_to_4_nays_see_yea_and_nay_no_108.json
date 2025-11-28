@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Consolidated amendment A adopted - 149 YEAS to 4 NAYS (See YEA and NAY No. 108 )",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4750"
+}

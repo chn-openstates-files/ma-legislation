@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft of S600, S603 and S605",
+    "date": "2025-11-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2730"
+}
