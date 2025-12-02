@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "For message, see H4798",
+    "date": "2025-12-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3912"
+}
