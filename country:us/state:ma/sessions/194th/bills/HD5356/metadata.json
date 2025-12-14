@@ -28,6 +28,29 @@
       "_processing": {
         "log_file_created": "2025-12-02T17:43:50Z"
       }
+    },
+    {
+      "description": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on Municipalities and Regional Government",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Joint Rules, reported, rules suspended and referred to the committee on Municipalities and Regional Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Joint Rules, reported, rules suspended and referred to the committee on Municipalities and Regional Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-12-14T21:03:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +93,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T17:43:50Z"
+    "logs_latest_update": "2025-12-14T21:03:45Z"
   }
 }
