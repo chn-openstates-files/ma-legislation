@@ -56,6 +56,16 @@
       "_processing": {
         "log_file_created": "2025-12-16T09:43:42Z"
       }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-19T10:13:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +108,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-16T09:43:42Z"
+    "logs_latest_update": "2025-12-19T10:13:29Z"
   }
 }
