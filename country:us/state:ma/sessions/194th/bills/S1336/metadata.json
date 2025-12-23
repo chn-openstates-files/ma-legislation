@@ -73,6 +73,30 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-12-23T10:37:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +106,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Patricia D. Jehlen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
       "organization_id": null
     }
   ],
@@ -121,6 +153,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2025-12-23T10:37:40Z"
   }
 }

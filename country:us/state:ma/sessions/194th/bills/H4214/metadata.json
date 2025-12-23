@@ -132,6 +132,19 @@
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
       }
+    },
+    {
+      "description": "Read, rules suspended, read second and ordered to a third reading",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-23T10:37:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2025-12-23T10:37:40Z"
   }
 }
