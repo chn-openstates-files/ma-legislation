@@ -129,6 +129,18 @@
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 94 of the Acts of 2025",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-24T12:36:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2025-12-24T12:36:36Z"
   }
 }
