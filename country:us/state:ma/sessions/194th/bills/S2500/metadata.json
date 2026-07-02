@@ -77,6 +77,30 @@
       "_processing": {
         "log_file_created": "2026-04-23T13:20:06Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Rules",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Senate Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Senate Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-02T04:16:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -141,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-23T13:20:06Z"
+    "logs_latest_update": "2026-07-02T04:16:09Z"
   }
 }

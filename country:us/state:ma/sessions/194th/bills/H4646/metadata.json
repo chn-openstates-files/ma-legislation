@@ -162,6 +162,59 @@
       "_processing": {
         "log_file_created": "2026-06-13T13:51:49Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T04:16:09Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T04:16:09Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Livingstone-Garcia-Sullivan-Almeida)",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T04:16:09Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the reference to the committee on  and referred to the committee on",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-02T04:16:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-16T16:43:37Z"
+    "logs_latest_update": "2026-07-02T04:16:09Z"
   }
 }
