@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s423"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Education",
@@ -53,6 +57,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Friday July 31, 2026",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,6 +100,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Patrick Joseph Kearney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
       "organization_id": null
     }
   ],
@@ -125,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

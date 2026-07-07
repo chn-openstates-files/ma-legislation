@@ -118,6 +118,52 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:09Z"
       }
+    },
+    {
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3143",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -- see   Roll Call #205 (Yeas 32 to Nays 8)",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -472,6 +518,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

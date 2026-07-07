@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s341"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Education",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:37:47Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Friday July 31, 2026",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
       }
     }
   ],
@@ -121,6 +135,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"James B. Eldridge\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pavel M. Payano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pavel M. Payano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Brady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -159,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:47Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

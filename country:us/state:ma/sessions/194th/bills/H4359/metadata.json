@@ -199,6 +199,26 @@
       "_processing": {
         "log_file_created": "2026-05-01T13:11:44Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Senate concurred in the further House amendment",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-01T13:11:44Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

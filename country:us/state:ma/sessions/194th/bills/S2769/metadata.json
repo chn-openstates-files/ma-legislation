@@ -37,6 +37,36 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:08Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to be adopted",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -85,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:08Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

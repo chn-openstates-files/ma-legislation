@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s421"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Education",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Friday July 31, 2026",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
       }
     }
   ],
@@ -95,6 +109,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Patrick Joseph Kearney\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bruce E. Tarr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce E. Tarr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Brady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -133,6 +171,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }

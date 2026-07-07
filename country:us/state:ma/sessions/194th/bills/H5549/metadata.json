@@ -29,6 +29,16 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:09Z"
       }
+    },
+    {
+      "description": "Published as amended, see H5558",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-07T14:23:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +81,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-07T14:23:00Z"
   }
 }
