@@ -152,6 +152,18 @@
       }
     },
     {
+      "description": "Read third",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
       "description": "Passed to be engrossed -- see   Roll Call #192 (Yeas 39 to Nays 0)",
       "date": "2026-06-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -296,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-07T14:23:00Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

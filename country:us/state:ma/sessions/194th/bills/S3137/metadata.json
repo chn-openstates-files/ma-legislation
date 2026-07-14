@@ -105,6 +105,31 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:09Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Read, rules suspended, read second and ordered to a third reading",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

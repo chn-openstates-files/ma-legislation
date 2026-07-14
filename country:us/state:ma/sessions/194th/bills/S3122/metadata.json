@@ -63,6 +63,30 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:08Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:08Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

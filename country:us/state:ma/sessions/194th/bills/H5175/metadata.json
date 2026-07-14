@@ -76,13 +76,13 @@
       }
     },
     {
-      "description": "Accompanied by S2228, S2232, S2239, S2249, S2255, S2262, S2281, S2282, S2612 and S2780",
+      "description": "Also based on S2228, S2232, S2239, S2249, S2255, S2262, S2281, S2282, S2612 and S2780",
       "date": "2026-06-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-02T04:16:09Z"
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     },
     {
@@ -129,6 +129,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-07T14:23:00Z"
+      }
+    },
+    {
+      "description": "Reprinted, as amended, see S3166",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     },
     {
@@ -518,6 +528,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-07T14:23:00Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

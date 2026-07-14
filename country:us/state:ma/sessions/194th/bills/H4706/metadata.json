@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4706"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on House Ways and Means",
@@ -118,6 +122,48 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
+      }
+    },
+    {
+      "description": "Also based on S2645",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S3170",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, July 16, 2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     }
   ],
@@ -521,6 +567,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

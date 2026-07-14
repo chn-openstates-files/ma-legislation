@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2544"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Health",
@@ -116,6 +120,16 @@
       "_processing": {
         "log_file_created": "2026-01-29T12:50:17Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Thursday, December 31, 2026",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -164,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:50:17Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

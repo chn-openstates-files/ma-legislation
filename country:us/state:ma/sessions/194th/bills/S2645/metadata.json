@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2645"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on Aging and Independence",
@@ -61,7 +65,7 @@
       }
     },
     {
-      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "description": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
       "date": "2025-10-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -81,7 +85,17 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:06Z"
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Accompanied H4706",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     }
   ],
@@ -141,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

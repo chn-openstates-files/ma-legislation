@@ -14,7 +14,51 @@
       "identifier": "ocd-bill-ma-194th-hd6254"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Environment and Natural Resources",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 07/22/2026 from 01:00 PM-02:00 PM in A-2",
+      "date": "2026-07-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Danillo A. Sena",
@@ -55,6 +99,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

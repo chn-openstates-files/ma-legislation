@@ -47,6 +47,16 @@
       "_processing": {
         "log_file_created": "2026-07-02T04:16:09Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 07/20/2026 from 09:00 AM-05:00 PM in Written Testimony Only",
+      "date": "2026-07-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +105,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

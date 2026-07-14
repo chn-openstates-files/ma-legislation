@@ -59,6 +59,266 @@
       "_processing": {
         "log_file_created": "2026-07-07T14:23:00Z"
       }
+    },
+    {
+      "description": "Amendment #2 (Payano) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Keenan) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #6 (Keenan) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #7 (Keenan) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #8 (Keenan) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #9 (Friedman) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #18 (Fernandes) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #19 (Fernandes) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #21 (Finegold) rejected",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #24 (Kennedy) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #25 (Kennedy) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #27 (Brownsberger) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #29 (Brownsberger) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Edwards) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Edwards) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #16 (Tarr) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #31 (Velis) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Amendment #11 (Rodrigues) adopted",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Substituted, as amended, for S30",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -see   Roll Call #206 (Yeas 38 to Nays 2)",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +329,14 @@
       "primary": true,
       "person_id": null,
       "organization_id": "~{\"name\": \"Senate Committee on Ways and Means\"}"
+    },
+    {
+      "name": "Cynthia Stone Creem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia Stone Creem\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -101,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-07T14:23:00Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

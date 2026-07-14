@@ -230,7 +230,7 @@
       }
     },
     {
-      "description": "Passed to be engrossed - 156 YEAS to 0 NAYS (See YEA and NAY No. 198 )",
+      "description": "Passed to be engrossed - 156 YEAS to 0 NAYS (See YEA and NAY No. 198)",
       "date": "2026-05-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -238,7 +238,84 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-02T04:16:09Z"
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Senate concurred in the House amendment with a further amendment",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Bills in the Third Reading",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "House concurred in the Senate further amendment",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2026-07-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     }
   ],
@@ -282,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }

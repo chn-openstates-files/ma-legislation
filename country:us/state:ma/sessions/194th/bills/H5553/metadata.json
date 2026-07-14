@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5553",
-  "title": "An Act authorizing the division of capital asset management and maintenance to take by eminent domain certain land in the town of Norwood\r\n\r\n\tWhereas, The deferred operation of this act would tend to defeat its purpose, which is to authorize and direct forthwith the division of capital asset management and maintenance to take a certain parcel of land in the town of Norwood, therefore it is hereby declared to be an emergency law, necessary for the immediate preservation of the public health.",
+  "title": "An Act authorizing the division of capital asset management and maintenance to take by eminent domain certain land in the town of Norwood",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -76,6 +76,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-02T04:16:09Z"
+      }
+    },
+    {
+      "description": "Read, rules suspended, read second and ordered to a third reading",
+      "date": "2026-07-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:57Z"
       }
     }
   ],
@@ -215,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-02T04:16:09Z"
+    "logs_latest_update": "2026-07-14T13:24:57Z"
   }
 }
